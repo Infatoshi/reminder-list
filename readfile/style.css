@@ -1,0 +1,27 @@
+.main {
+    text-align: center;
+}
+
+
+.input {
+    width: 300px;
+    height: 50px;
+}
+
+.submit {
+    color: grey;
+    background-color: black;
+    width: auto;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 5px;
+}
+
+.erase {
+    color: grey;
+    background-color: black;
+    width: auto;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 5px;
+}
